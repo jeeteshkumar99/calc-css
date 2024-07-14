@@ -1,0 +1,48 @@
+body{
+    /* background-color: rgb(12, 0, 0); */
+
+}
+
+
+table{
+    border: 2px solid rgb(248, 123, 123);
+    width: 500px;
+    height: 250px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 60px;
+    background-color: rgb(8, 0, 0);
+    border-spacing: 10px;
+}
+button{
+    width: 55px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(37, 30, 30);
+    border-style: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bb{
+    width: 120px;
+    font-size: large;
+    
+}
+.font{
+    font-size: large;
+}
+.o0{
+    font-size:xx-large;
+    color: white;
+}
+.font1{
+    background-color: pink;
+    color: black;
+    font-size: large;
+}
+
+.hr-bold{
+    border-top: 3px solid rgb(228, 220, 220);
+    /* margin: 0 10px; */
+    
+}
